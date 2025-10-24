@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ovo je primjer jednostavne HTML stranice.">
+  <title>Moja web stranica</title>
+</head>
+<body>
+  <h1>Dobrodošli na moju web stranicu!</h1>
+  <p>Ovo je primjer osnovne HTML strukture s deklaracijom, zaglavljem i tijelom dokumenta.</p>
+</body>
+</html>
