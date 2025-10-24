@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Popis mobitela</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+    }
+
+    h2 {
+      text-align: left;
+      color: #000;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 60%;
+      margin-top: 10px;
+    }
+
+    th, td {
+      border: 1px solid #555;
+      padding: 10px;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+    th {
+      background-color: #f0f0f0;
+    }
+
+    img {
+      width: 100px;
+      height: auto;
+      border-radius: 6px;
+    }
+
+    a {
+      color: #0066cc;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Popis mobitela</h2>
+
+  <table>
+    <tr>
+      <th>Samsung</th>
+      <th>Apple</th>
+    </tr>
+
+    <tr>
+      <td>
+        <img src="https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s8-.jpg" alt="Galaxy S8"><br>
+        Galaxy S8
+      </td>
+      <td>
+        <img src="https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-9-new.jpg" alt="iPhone 9"><br>
+        iPhone 9
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <img src="https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s9-.jpg" alt="Galaxy S9"><br>
+        Galaxy S9
+      </td>
+      <td>
+        <img src="https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-x.jpg" alt="iPhone X"><br>
+        iPhone X
+      </td>
+    </tr>
+  </table>
+
+  <p>Izvor: <a href="https://gadgets.ndtv.com/mobiles" target="_blank">https://gadgets.ndtv.com/mobiles</a></p>
+
+</body>
+</html>
