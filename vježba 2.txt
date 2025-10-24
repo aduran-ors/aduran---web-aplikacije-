@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Primjer sportske HTML stranice sa slikama.">
+  <title>Sportske novosti</title>
+</head>
+<body>
+  <h1>Velika pobjeda hrvatske reprezentacije</h1>
+  <h2>Hrvatska izborila plasman na Europsko prvenstvo</h2>
+
+  <p>
+    Hrvatska nogometna reprezentacija ostvarila je važnu pobjedu protiv jakog protivnika i tako osigurala
+    mjesto na nadolazećem Europskom prvenstvu. U sjajnoj atmosferi i pred punim tribinama, naši su igrači
+    pokazali borbenost i timski duh koji ih je doveo do uspjeha.
+  </p>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Croatia_national_football_team_2018.jpg"
+       alt="Hrvatska nogometna reprezentacija" width="500">
+
+  <p>
+    Izbornik je nakon utakmice izjavio kako je ponosan na svoje igrače i zahvalio se navijačima na podršci.
+    Hrvatska sada čeka ždrijeb skupina i s optimizmom gleda prema novim izazovima koji ih očekuju na Europskom prvenstvu.
+  </p>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Soccerball.svg"
+       alt="Nogometna lopta" width="200">
+
+</body>
+</html>
