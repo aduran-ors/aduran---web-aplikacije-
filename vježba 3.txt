@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Sportske vijesti s primjerom figure/figcaption i linkanih slika.">
+  <title>Sportske novosti</title>
+</head>
+<body>
+  <header>
+    <h1>Velika pobjeda hrvatske reprezentacije</h1>
+    <h2>Vatreni potvrđuju formu uoči velikog natjecanja</h2>
+  </header>
+
+  <main>
+    <article>
+      <p>
+        Hrvatska nogometna reprezentacija odigrala je uvjerljivo i disciplinirano, stvarajući prilike
+        kroz strpljivu gradnju napada. Publika je nosila momčad, a agresivnim presingom osvajane su
+        lopte visoko na terenu.
+      </p>
+
+      <p>
+        U nastavku susreta do izražaja je došla širina kadra i svježina s klupe. Izbornik je istaknuo
+        timski duh i kontrolu ritma utakmice, te poručio da fokus ostaje na sljedećem ispitu.
+      </p>
+
+      <!-- Slika 1: thumbnail u <figure>; klik otvara veću sliku u novoj kartici -->
+      <figure>
+        <a href="https://upload.wikimedia.org/wikipedia/commons/3/3e/Croatia_national_football_team_2018.jpg"
+           target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Croatia_national_football_team_2018.jpg/640px-Croatia_national_football_team_2018.jpg"
+            alt="Hrvatska nogometna reprezentacija - timska fotografija"
+            width="600" height="auto" loading="lazy">
+        </a>
+        <figcaption>Timska fotografija hrvatske nogometne reprezentacije (klik za veću sliku).</figcaption>
+      </figure>
+
+      <!-- Slika 2: thumbnail u <figure>; klik otvara veću (originalnu SVG) u novoj kartici -->
+      <figure>
+        <a href="https://upload.wikimedia.org/wikipedia/commons/d/d3/Soccerball.svg"
+           target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/256px-Soccerball.svg.png"
+            alt="Nogometna lopta - ilustracija"
+            width="200" height="auto" loading="lazy">
+        </a>
+        <figcaption>Ilustracija nogometne lopte (klik za veću vektorsku verziju).</figcaption>
+      </figure>
+    </article>
+  </main>
+</body>
+</html>
